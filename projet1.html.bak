@@ -1,0 +1,47 @@
+<HTML>
+<head>
+<title>jpis</title >
+
+<style>
+table,th,td{
+border:1px solid black;
+}
+
+</style>
+</head>
+<body style="background-color:skyblue">
+<h1><center> <marquee>jpis</marquee></center></h1>
+<center>
+<table>
+<tr>
+<th>sr number</th> 
+<th>name</th>
+<th>roll number</th>
+<th>marks obtained</th>
+<th>rank</th>
+</tr>
+<tr>
+<td>1</td>
+<td>shaurrya</td>
+<td>24</td>
+<td>98/100</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Zalak</td>
+<td>30</td>
+<td>92.5/100</td>
+<td>9</td>
+</tr>
+<tr>
+<td>3</td>
+<td>yash</td>
+<td>32</td>
+<td>85</td>
+<td>14</td>
+</tr>
+
+</table>
+</center>
+</body></html>
